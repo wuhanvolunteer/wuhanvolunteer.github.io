@@ -1,7 +1,7 @@
 # Site settings
-title: Liang Ke Jin
-description: Liang Ke Jin
-favicon: /assets/img/avatar.JPG
+title: 武汉志愿者
+description: 致力于分享新型冠状病毒相关信息
+favicon: /assets/img/avatar.png
 baseurl:
 url: https://liungkejin.github.io
 rss_url:
